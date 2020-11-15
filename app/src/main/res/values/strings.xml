@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JajanKekinian</string>
+    <string name="todo" />
+    <string name="nama_toko" />
+    <string name="desc_toko" />
+    <string name="instagram" />
+    <string name="short_description" />
+    <string name="alamat" />
+    <string name="nama_menu" />
+</resources>
